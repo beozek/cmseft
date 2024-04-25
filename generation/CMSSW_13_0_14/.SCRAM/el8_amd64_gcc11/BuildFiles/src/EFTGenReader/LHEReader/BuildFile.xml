@@ -1,0 +1,16 @@
+{
+  "EXPORT": {
+    "LIB": [
+      "1"
+    ]
+  },
+  "USE": [
+    "CommonTools/Utils",
+    "DataFormats/FWLite",
+    "EgammaAnalysis/ElectronTools",
+    "DataFormats/Math",
+    "root",
+    "roottmva",
+    "lhapdf"
+  ]
+}

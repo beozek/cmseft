@@ -1,0 +1,1 @@
+EFTGenReaderGenReaderPlugins EFTGenReader/GenReader/plugins/EFTGenHistsWithCuts.cc EFTGenReader/GenReader/plugins/EFTGenReader.cc EFTGenReader/GenReader/plugins/EFTMaodHists.cc EFTGenReader/GenReader/plugins/EFTSelectionAnalyzer.cc

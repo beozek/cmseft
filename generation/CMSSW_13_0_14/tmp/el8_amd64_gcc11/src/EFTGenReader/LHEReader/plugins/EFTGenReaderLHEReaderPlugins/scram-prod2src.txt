@@ -1,0 +1,1 @@
+EFTGenReaderLHEReaderPlugins EFTGenReader/LHEReader/plugins/EFTLHEReader.cc

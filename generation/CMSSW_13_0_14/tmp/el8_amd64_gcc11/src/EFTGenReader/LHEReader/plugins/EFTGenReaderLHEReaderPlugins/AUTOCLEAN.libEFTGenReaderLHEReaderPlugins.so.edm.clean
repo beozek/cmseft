@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/el8_amd64_gcc11/pluginEFTGenReaderLHEReaderPlugins.so lib/el8_amd64_gcc11/EFTGenReaderLHEReaderPlugins.edmplugin
+90:edmPluginRefresh lib/el8_amd64_gcc11

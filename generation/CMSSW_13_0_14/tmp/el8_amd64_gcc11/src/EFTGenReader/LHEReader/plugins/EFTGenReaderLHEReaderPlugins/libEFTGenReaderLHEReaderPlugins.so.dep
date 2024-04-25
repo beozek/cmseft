@@ -1,0 +1,8 @@
+tmp/el8_amd64_gcc11/src/EFTGenReader/LHEReader/plugins/EFTGenReaderLHEReaderPlugins/EFTLHEReader.cc.o: \
+ src/EFTGenReader/LHEReader/plugins/EFTLHEReader.cc \
+ src/EFTGenReader/LHEReader/plugins/EFTLHEReader.h \
+ src/EFTGenReader/EFTHelperUtilities/interface/WCPoint.h \
+ src/EFTGenReader/EFTHelperUtilities/interface/split_string.h \
+ src/EFTGenReader/EFTHelperUtilities/interface/WCFit.h \
+ src/EFTGenReader/EFTHelperUtilities/interface/WCPoint.h \
+

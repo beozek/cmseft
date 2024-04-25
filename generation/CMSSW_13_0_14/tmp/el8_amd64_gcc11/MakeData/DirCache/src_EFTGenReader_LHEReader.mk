@@ -1,0 +1,2 @@
+ALL_PACKAGES += EFTGenReader/LHEReader
+subdirs_src_EFTGenReader_LHEReader := src_EFTGenReader_LHEReader_plugins src_EFTGenReader_LHEReader_python src_EFTGenReader_LHEReader_test

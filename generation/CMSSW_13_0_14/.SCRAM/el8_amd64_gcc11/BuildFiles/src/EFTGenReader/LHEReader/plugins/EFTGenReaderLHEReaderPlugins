@@ -1,0 +1,1 @@
+EFTGenReaderLHEReaderPlugins_PACKAGE := self/src/EFTGenReader/LHEReader/plugins

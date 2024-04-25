@@ -1,0 +1,2 @@
+01:/usr/bin/rm -f lib/el8_amd64_gcc11/pluginPhysicsToolsNanoAODPlugins.so lib/el8_amd64_gcc11/PhysicsToolsNanoAODPlugins.edmplugin
+90:edmPluginRefresh lib/el8_amd64_gcc11

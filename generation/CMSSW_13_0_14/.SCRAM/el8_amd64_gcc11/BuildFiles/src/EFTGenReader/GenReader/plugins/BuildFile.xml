@@ -1,0 +1,36 @@
+{
+  "BUILDPRODUCTS": {
+    "LIBRARY": {
+      "EFTGenReaderGenReaderPlugins": {
+        "FILES": "*.cc",
+        "FLAGS": {
+          "EDM_PLUGIN": [
+            "1"
+          ]
+        },
+        "TYPE": "lib"
+      }
+    }
+  },
+  "EXPORT": {
+    "LIB": []
+  },
+  "USE": [
+    "root",
+    "roottmva",
+    "CommonTools/UtilAlgos",
+    "FWCore/PluginManager",
+    "FWCore/ParameterSet",
+    "FWCore/Framework",
+    "FWCore/Utilities",
+    "FWCore/ServiceRegistry",
+    "FWCore/PythonParameterSet",
+    "DataFormats/Common",
+    "DataFormats/Math",
+    "DataFormats/HepMCCandidate",
+    "DataFormats/PatCandidates",
+    "SimDataFormats/GeneratorProducts",
+    "EFTGenReader/EFTHelperUtilities",
+    "EFTGenReader/GenReader"
+  ]
+}

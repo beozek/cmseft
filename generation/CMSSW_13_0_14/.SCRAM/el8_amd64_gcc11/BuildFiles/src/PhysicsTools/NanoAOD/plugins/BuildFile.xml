@@ -1,0 +1,43 @@
+{
+  "BUILDPRODUCTS": {
+    "LIBRARY": {
+      "PhysicsToolsNanoAODPlugins": {
+        "FILES": "*.cc",
+        "FLAGS": {
+          "EDM_PLUGIN": [
+            "1"
+          ]
+        },
+        "TYPE": "lib"
+      }
+    }
+  },
+  "USE": [
+    "fastjet",
+    "fastjet-contrib",
+    "roothistmatrix",
+    "tbb",
+    "CommonTools/Egamma",
+    "CondFormats/BTauObjects",
+    "CondFormats/DataRecord",
+    "CondFormats/L1TObjects",
+    "CondFormats/RunInfo",
+    "CondTools/BTau",
+    "DQMServices/Core",
+    "DataFormats/CTPPSDetId",
+    "DataFormats/CTPPSReco",
+    "DataFormats/Candidate",
+    "DataFormats/L1TGlobal",
+    "DataFormats/NanoAOD",
+    "DataFormats/PatCandidates",
+    "DataFormats/ProtonReco",
+    "FWCore/Framework",
+    "FWCore/ParameterSet",
+    "FWCore/ServiceRegistry",
+    "FWCore/Utilities",
+    "IOPool/Provenance",
+    "PhysicsTools/PatAlgos",
+    "RecoVertex/VertexPrimitives",
+    "RecoVertex/VertexTools"
+  ]
+}
